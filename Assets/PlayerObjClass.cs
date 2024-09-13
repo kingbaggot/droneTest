@@ -6,6 +6,8 @@ public class PlayerObjClass : TileObjectClass
 {
     bool SPIN = false;
     bool LAND = false;
+    
+    bool TEST_BOOL = false;
 
     public void Start()
     {
